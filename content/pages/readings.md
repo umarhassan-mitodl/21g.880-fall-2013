@@ -13,9 +13,9 @@ Always read "Vamos Viajar" and "Horizontes" in the order they appear in each les
 
 Explore *MyPortugueseLab* (not available to OCW users), where you can find videos, audio, flashcards, etc. It is highly advisable to read "readiness check" before each new grammar point.
 
-\[Ponto\] = de Jouet-Pastre, Clemence, Anna Klobucka, et al. {{% resource_link "35471835-67a3-40d0-a43b-dcc72395aad8" "*Ponto de Encontro: Portuguese as a World Language*" %}}*.* 2nd ed. Prentice Hall, 2012. ISBN: 9780205782765.
+\[Ponto\] = de Jouet-Pastre, Clemence, Anna Klobucka, et al. [*Ponto de Encontro: Portuguese as a World Language*](https://vdoc.pub/documents/ponto-de-encontro-portuguese-as-a-world-language-30t05j6g1qh0)*.* 2nd ed. Prentice Hall, 2012. ISBN: 9780205782765.
 
-\[Lab\] = ———. {{% resource_link "c1278586-5ee9-4f9c-a321-13c67b475740" "*MyPortugueseLab*" %}} *with Pearson eText for Ponto de Encontro: Portuguese as a World Language.* 2nd ed. Prentice Hall, 2013. ISBN: 9780205978533.
+\[Lab\] = ———. [*MyPortugueseLab*](http://www.pearsonmylabandmastering.com/northamerica/mylanguagelabs/) *with Pearson eText for Ponto de Encontro: Portuguese as a World Language.* 2nd ed. Prentice Hall, 2013. ISBN: 9780205978533.
 
 \[O Melhor\] = Verissimo, Luis Fernando. *O Melhor das Comédias da Vida Privada*. Objetiva, 2004. ISBN: 9788573026177.
 
@@ -365,7 +365,7 @@ No readings
 27
 {{< tdclose >}}{{< tdopen >}}
 
-- Vídeo: *O Povo Brasileiro* (Parte 1)—"Matriz Tupi." September 20, 2013. YouTube. Accessed April 16, 2014. {{% resource_link "43c4adab-c2da-4030-baab-744308e626f4" "https://www.youtube.com/watch?v=Dmi0Jn_9sPA" %}}
+- Vídeo: *O Povo Brasileiro* (Parte 1)—"Matriz Tupi." September 20, 2013. YouTube. Accessed April 16, 2014. [https://www.youtube.com/watch?v=Dmi0Jn_9sPA](https://www.youtube.com/watch?v=Dmi0Jn_9sPA)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -388,7 +388,7 @@ No readings
 29
 {{< tdclose >}}{{< tdopen >}}
 
-- Vídeo: *O Povo Brasileiro* (Parte 2)—"Matriz Lusa." September 20, 2013. YouTube. Accessed April 16, 2014. {{% resource_link "222c650b-1d19-4834-83f8-c09dfb2fdbac" "https://www.youtube.com/watch?v=3kLJ8mmHbKo" %}}
+- Vídeo: *O Povo Brasileiro* (Parte 2)—"Matriz Lusa." September 20, 2013. YouTube. Accessed April 16, 2014. [https://www.youtube.com/watch?v=3kLJ8mmHbKo](https://www.youtube.com/watch?v=3kLJ8mmHbKo)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -432,7 +432,7 @@ No readings
 33
 {{< tdclose >}}{{< tdopen >}}
 
-- Vídeo: *O Povo Brasileiro* (Parte 3)—"Matriz Afro." April 7, 2013. YouTube. Accessed April 16, 2014. {{% resource_link "b9c484ef-b3c1-4ad6-8a50-846fd26a1aaf" "https://www.youtube.com/watch?v=vwj1GBEYr_s" %}}
+- Vídeo: *O Povo Brasileiro* (Parte 3)—"Matriz Afro." April 7, 2013. YouTube. Accessed April 16, 2014. [https://www.youtube.com/watch?v=vwj1GBEYr_s](https://www.youtube.com/watch?v=vwj1GBEYr_s)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -483,7 +483,7 @@ No readings
 38
 {{< tdclose >}}{{< tdopen >}}
 
-- Vídeo: *O Povo Brasileiro* (Parte 4)—"Encontros e desencontros." YouTube. April 7, 2013. Accessed April 16, 2014. {{% resource_link "f5a6e252-320a-4782-9c52-299f298f704a" "https://www.youtube.com/watch?v=WWLxSGj8mN0" %}}
+- Vídeo: *O Povo Brasileiro* (Parte 4)—"Encontros e desencontros." YouTube. April 7, 2013. Accessed April 16, 2014. [https://www.youtube.com/watch?v=WWLxSGj8mN0](https://www.youtube.com/watch?v=WWLxSGj8mN0)
 
 {{< tdclose >}}{{< tdopen >}}
 

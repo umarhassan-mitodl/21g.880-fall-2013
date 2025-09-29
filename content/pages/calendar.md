@@ -2,6 +2,8 @@
 content_type: page
 description: This calendar section provides the schedule of lecture topics and key
   dates for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -496,7 +498,7 @@ Teste 2: lições 4–7
 {{< tdopen >}}
 
 
-*   Vídeo: _O Povo Brasileiro_ (Parte 1)—"Matriz Tupi." September 20, 2013. YouTube. Accessed April 16, 2014. {{% resource_link "43c4adab-c2da-4030-baab-744308e626f4" "https://www.youtube.com/watch?v=Dmi0Jn\_9sPA" %}}
+*   Vídeo: _O Povo Brasileiro_ (Parte 1)—"Matriz Tupi." September 20, 2013. YouTube. Accessed April 16, 2014. [https://www.youtube.com/watch?v=Dmi0Jn\_9sPA](https://www.youtube.com/watch?v=Dmi0Jn_9sPA)
 
 
 {{< tdclose >}}
@@ -531,7 +533,7 @@ Enviar os exercícios da lição 8
 {{< tdopen >}}
 
 
-*   Vídeo: _O Povo Brasileiro_ (Parte 2)—"Matriz Lusa." September 20, 2013. YouTube. Accessed April 16, 2014. {{% resource_link "222c650b-1d19-4834-83f8-c09dfb2fdbac" "https://www.youtube.com/watch?v=3kLJ8mmHbKo" %}}
+*   Vídeo: _O Povo Brasileiro_ (Parte 2)—"Matriz Lusa." September 20, 2013. YouTube. Accessed April 16, 2014. [https://www.youtube.com/watch?v=3kLJ8mmHbKo](https://www.youtube.com/watch?v=3kLJ8mmHbKo)
 
 
 {{< tdclose >}}
@@ -603,7 +605,7 @@ Enviar os exercícios da lição 9
 {{< tdopen >}}
 
 
-*   Vídeo: _O Povo Brasileiro_ (Parte 3)—"Matriz Afro." April 7, 2013. YouTube. Accessed April 16, 2014.  {{% resource_link "b9c484ef-b3c1-4ad6-8a50-846fd26a1aaf" "https://www.youtube.com/watch?v=vwj1GBEYr\_s" %}}
+*   Vídeo: _O Povo Brasileiro_ (Parte 3)—"Matriz Afro." April 7, 2013. YouTube. Accessed April 16, 2014.  [https://www.youtube.com/watch?v=vwj1GBEYr\_s](https://www.youtube.com/watch?v=vwj1GBEYr_s)
 
 
 {{< tdclose >}}
@@ -690,7 +692,7 @@ Enviar exercícios da lição 11
 {{< tdopen >}}
 
 
-*   Vídeo: _O Povo Brasileiro_ (Parte 4)—"Encontros e desencontros." YouTube. April 7, 2013. Accessed April 16, 2014. {{% resource_link "f5a6e252-320a-4782-9c52-299f298f704a" "https://www.youtube.com/watch?v=WWLxSGj8mN0" %}}
+*   Vídeo: _O Povo Brasileiro_ (Parte 4)—"Encontros e desencontros." YouTube. April 7, 2013. Accessed April 16, 2014. [https://www.youtube.com/watch?v=WWLxSGj8mN0](https://www.youtube.com/watch?v=WWLxSGj8mN0)
 
 
 {{< tdclose >}}
@@ -942,4 +944,4 @@ Apresentação oral (cont.)
 
 {{< tableclose >}}
 
-{{% resource_link "2f5907b6-d428-4b5c-9135-7eeee6bbdac4" "" %}}
+[](http://wps.prenhall.com/wl_klobucka_ponto_1/70/17987/4604752.cw/index.html)
