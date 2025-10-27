@@ -5,8 +5,6 @@ description: "This resource contains the information regarding questions about m
 file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013/b964561f10e2ce730705b354e1c51e03_MIT21G_880F13_readquest2.pdf
 file_size: 81746
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
